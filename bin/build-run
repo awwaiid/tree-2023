@@ -1,0 +1,1 @@
+pio run -t upload -e adafruit_qtpy_esp32s3_n4r2
